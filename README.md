@@ -2,11 +2,6 @@
 
 This is a project I completed as a student at Hack Reactor.  During the project we built a chat client consuming some parse API. 
 
-## Structure:
-
-The repository consist of
-
-- jQuery app
 
 #### Chatterbox app 
 
